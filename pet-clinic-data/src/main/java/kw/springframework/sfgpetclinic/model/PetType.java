@@ -1,6 +1,6 @@
 package kw.springframework.sfgpetclinic.model;
 
-class PetType {
+class PetType extends BaseEntity{
 
     private String name;
 
